@@ -1,0 +1,15 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#map {
+    width: 100%;
+    height: 90%;
+}
+
+#jsonUpload {
+    margin: 10px;
+    display: block;
+}
